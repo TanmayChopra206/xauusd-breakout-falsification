@@ -8,7 +8,7 @@ The interesting part is not the strategy (it loses). It is the teardown: pinning
 
 ## The finding in one line
 
-Fading M15 Gold breakouts has a small but real gross edge (roughly £3.40 per trade) that is structurally trapped beneath a cost floor of around £17.70 per trade. It does not scale with target size and does not survive a timeframe change. A genuine microstructure effect, but not tradeable at retail-accessible costs.
+Fading M15 Gold breakouts has a small but real gross edge (roughly $3.40 per trade) that is structurally trapped beneath a cost floor of around $17.70 per trade. It does not scale with target size and does not survive a timeframe change. A genuine microstructure effect, but not tradeable at retail-accessible costs.
 
 ## What is in here
 
